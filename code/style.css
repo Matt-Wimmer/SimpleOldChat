@@ -12,7 +12,7 @@ main {
 #banner {
 	display: block;
 	width:320px;
-	margin-left: auto 1vh;
+	margin: 1vh auto;
 }
 
 .userIcon {
