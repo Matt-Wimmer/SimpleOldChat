@@ -1,0 +1,20 @@
+body {
+	background-color:black;
+	color:white;
+}
+
+main {
+	width:60vw;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#banner {
+	display: block;
+	width:320px;
+	margin-left: auto 1vh;
+}
+
+.userIcon {
+	max-width: 50px;
+}
